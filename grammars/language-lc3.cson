@@ -15,7 +15,7 @@
     'comment': 'Register format R#'
   }
   {
-    'match':  '((\\s|^)([rR][tT][iI])|([nN][oO][tT])|([sS][tT][iIrRwWbB]?)|([jJ][sS][rR][rR]?)|([tT][rR][aA][pP])|(([bB][rR])[nN]?[zZ]?[pP]?)|([rR][eE][tT])|([jJ][mM][pP])|([aA][nNdD][dD])|([lL](([eE][aA])|([dD][iIrRwWbB]?)))|([hH][aA][lL][tT])|([iI][nN])|([oO][uU][tT])|([gG][eE][tT][cC])|([pP][uU][tT][sS][pP]?))\\s'
+    'match':  '((\\s|^)([xX][oO][rR])|([rR]([tT][iI])|([rR][sS][hH][fF][lLaA]))|([nN][oO][tT])|([sS][tT][wWbB])|([jJ][sS][rR][rR]?)|([tT][rR][aA][pP])|(([bB][rR])[nN]?[zZ]?[pP]?)|([rR][eE][tT])|([jJ][mM][pP])|([aA][nNdD][dD])|([lL](([sS][hH][fF][tT])|([eE][aA])|([dD][wWbB])))|([hH][aA][lL][tT])|([iI][nN])|([oO][uU][tT])|([gG][eE][tT][cC])|([pP][uU][tT][sS][pP]?))\\s'
     'name': 'support.class.8086/8088'
     'comment': 'Opcode format'
   }
