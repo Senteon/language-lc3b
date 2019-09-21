@@ -2,8 +2,7 @@
   'editor':
     'commentStart': ';'
 
-  'completions':
-  [
+'completions':[
     'ADD'
     'AND'
     'BR'
@@ -52,4 +51,4 @@
     'KBDR'
     'KBSR'
     'MCR'
-  ]
+]
