@@ -2,7 +2,8 @@
   'editor':
     'commentStart': ';'
 
-  'completions': [
+  'completions':
+  [
     'ADD'
     'AND'
     'BR'
@@ -21,9 +22,13 @@
     'NOT'
     'RET'
     'RTI'
+    'LSHF'
+    'RSHFL'
+    'RSHFA'
     'STB'
     'STW'
     'TRAP'
+    'XOR'
     '.ORIG'
     '.END'
     'HALT'
