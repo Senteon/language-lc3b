@@ -1,7 +1,7 @@
 'fileTypes': [
   'asm'
 ]
-'name': 'Assembly (LC-3)'
+'name': 'Assembly (LC-3b)'
 'patterns': [
 
   {
@@ -40,7 +40,7 @@
     'comment': 'Label format'
   }
   {
-    'match': '\\.(([oO][rR][iI][gG])|([fF][iI][lL][lL])|([eE][nN][dD])|([bB][lL][kK][wW])|([sS][tT][rR][iI][nN][gG][zZ]))'
+    'match': '\\.(([oO][rR][iI][gG])|([fF][iI][lL][lL])|([eE][nN][dD]))'
     'name': 'entity.name.function.directives'
     'comment': 'Directive format'
   }
