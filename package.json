@@ -1,6 +1,6 @@
 {
   "name": "language-lc3b",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "LC-3b Assembly language support in Atom",
   "engines": {
     "atom": "*"
