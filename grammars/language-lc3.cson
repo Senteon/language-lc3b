@@ -35,6 +35,21 @@
     'comment': 'Decimal numbers format #123 123'
   }
   {
+    'match': '(x-[0-9A-F]+)\\s'
+    'name': 'constant.numeric.hex'
+    'comment': 'Hexadecimal numbers format xFFFF'
+  }
+  {
+    'match': '(b-[01]+)\\s'
+    'name': 'constant.numeric.bin'
+    'comment': 'Binary numbers format b10'
+  }
+  {
+    'match': '#-?[0-9]+\\s'
+    'name': 'constant.numeric.dec'
+    'comment': 'Decimal numbers format #123 123'
+  }
+  {
     'match': '[\\w\\d]+:?'
     'name':'markup.italic'
     'comment': 'Label format'
